@@ -1,0 +1,1 @@
+echo select a program: "bash ./OFfox.sh" or "bash ./OSpyd.sh"
