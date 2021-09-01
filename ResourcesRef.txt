@@ -1,7 +1,0 @@
-bash -c "$(wget -q -O - https://linux.kite.com/dls/linux/current)"
-
-pip install --upgrade pip
-pip install spyder
-spyder
-
-sudo dpkg -i google-chrome-stable_current_amd64.deb
