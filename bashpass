@@ -1,0 +1,7 @@
+6: I might use a truly random number generator to generate a number in the range 1-10. If the number returned is 1, I would say that that person has some sort of colorblindness. See my program: https://gist.github.com/mteam88/cd46f0ff053ccb2b80202e2d41f43cee
+
+8: 43, 09, 13, 07, 58.
+
+11:  a) The randomness does not give the correct weighting to the coin flips. b) The probability of the player making a foul shot is not 50%. c) The simulation is not accurate because the suits are not represented.
+
+14: In my simulated environment, with parameters x, y and z, 24% of the simulated people contracted the illness.
