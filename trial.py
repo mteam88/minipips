@@ -1,5 +1,5 @@
 import random
-TRIALS = 20
+TRIALS = 2000
 resultlist = []
 for i in range(TRIALS):
 	if random.randint(1,100) >= 72:
